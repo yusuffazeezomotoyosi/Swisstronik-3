@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     swisstronik: {
       url: "https://json-rpc.testnet.swisstronik.com/",
-      accounts: ["wget https://raw.githubusercontent.com/clear"],
+      accounts: [""],
     },
   },
 };
